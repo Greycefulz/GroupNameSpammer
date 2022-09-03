@@ -2,7 +2,7 @@ import requests
 import random
 import ctypes
 
-ctypes.windll.kernel32.SetConsoleTitleA("Spam Name Spammer | github.com/greycefulz")
+ctypes.windll.kernel32.SetConsoleTitleA("Spam Group Name Spammer | github.com/greycefulz")
 
 token = input("Enter Your Token: ")
 id = input ("Enter Your Group ID: ")
