@@ -9,7 +9,7 @@ id = input ("Enter Your Group ID: ")
 
 names = ["", "", ""] #put random names here
 
-proxy = {'http': 'PROXY-HERE'} #proxy isnt needed but you should use one in case of a ratelimit
+proxy = {'http': ''} #proxy isnt needed but you should use one in case of a ratelimit
 
 headers = {
     "accept": "*/*",
