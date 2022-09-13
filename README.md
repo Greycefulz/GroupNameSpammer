@@ -1,1 +1,1 @@
-⭐ Leave A Start Leave ⭐
+⭐ Leave A Star ⭐
